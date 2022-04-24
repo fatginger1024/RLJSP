@@ -2,7 +2,7 @@
 Reinforcement learning in Job Scheduling Problem (JSP)
 
 
-## Materials
+## Papers
 - [A DEEP REINFORCEMENT LEARNING BASED SOLUTION FOR FLEXIBLE JOB SHOP SCHEDULING PROBLEM](http://www.ijsimm.com/Full_Papers/Fulltext2021/text20-2_CO7.pdf)
 - [Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/pdf/1802.04240.pdf)
 - [Research on Adaptive Job Shop Scheduling Problems Based on Dueling Double DQN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218934)
@@ -10,7 +10,21 @@ Reinforcement learning in Job Scheduling Problem (JSP)
 
 ## Problem formulation
 
+## GitHub repo
+- [JSP](https://github.com/prosysscience/RL-Job-Shop-Scheduling)
+- [A Reinforcement Learning Environment For Job-Shop Scheduling](https://arxiv.org/pdf/2104.03760.pdf)
+- [JSSP](https://github.com/mcfadd/Job_Shop_Schedule_Problem)
+- [JobShopPRO](https://github.com/paulkastel/JobShopPRO)
 
+## Method summary
+### 整数规划常用方法
+- 分枝定界法：可求纯或混合整数线性规划
+- 割平面法：可求纯或混合整数线性规划
+- 隐枚举法：用于求解0-1整数规划，有过滤法和分枝法
+- 匈牙利法：解决指派问题（0-1规划特殊情形) 
+- 蒙特卡罗法：求解各种类型规划
+- [优化算法](https://keson96.github.io/categories/%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95/)
+- [常见组合优化问题与求解方法简单介绍](https://zhuanlan.zhihu.com/p/161677525)
 
 ## Objectives
 
